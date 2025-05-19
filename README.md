@@ -5,9 +5,16 @@
 Funcionamento de sensores agrícolas em um sistema montado na plataforma Wokwi.com.
 O controle geral do sistema será realizado por um microcontrolador ESP32, responsável por receber os dados dos sensores e controlar a bomba de irrigação, representada por um relé. O relé poderá ser ligado ou desligado automaticamente de acordo com a lógica criada pelo grupo, e seu status será indicado por um LED embutido (ligado = irrigação ativa, desligado = inativa
 
+Sensor umidade
 ![Logo do Projeto](SensorUmidade/assets/imagem.png)
+
+Sensor potássio
 ![Logo do Projeto](SensorPotassio/assets/imagem.png)
+
+Sensor fosforo
 ![Logo do Projeto](SensorFosforo/assets/imagem.png)
+
+Sensor de luminosidade
 ![Logo do Projeto](SensorLuminosidade/assets/imagem.png)
 
 ### Regras de Negócio
