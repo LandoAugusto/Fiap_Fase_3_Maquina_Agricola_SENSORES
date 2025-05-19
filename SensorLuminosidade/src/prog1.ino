@@ -29,7 +29,7 @@ void loop() {
         // TBL_MONITORAMENTO (cd_cultura_produto_sensor, vlr_medido, cd_usuario_inclusao, dt_inclusao )  Values(codigoCulturaProdutoSensor,umidade, numeroSerie, getadate() )
         // Gravar os daos medidos na tabela monitoramento/
         Serial.println(" Gravar os daos medidos na tabela monitoramento");
-        Serial.println("TBL_MONITORAMENTO (cd_cultura_produto_sensor, vlr_medido, cd_usuario_inclusao, dt_inclusao )  Values(codigoCulturaProdutoSensor,umidade, numeroSerie, getadate() )");     
+        Serial.println("TBL_MONITORAMENTO (cd_cultura_produto_sensor, vlr_medido,dt_medicao, cd_usuario_inclusao, dt_inclusao )  Values(codigoCulturaProdutoSensor,vlr_medido,dt_medicao, numeroSerie, getadate() )");     
     } else {
         Serial.println("Nível de Luz dentro do normal.");
     }

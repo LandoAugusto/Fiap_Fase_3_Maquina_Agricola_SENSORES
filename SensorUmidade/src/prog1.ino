@@ -35,7 +35,7 @@ void loop() {
         // TBL_MONITORAMENTO (cd_cultura_produto_sensor, vlr_medido, cd_usuario_inclusao, dt_inclusao )  Values(codigoCulturaProdutoSensor,umidade, numeroSerie, getadate() )
         // Gravar os daos medidos na tabela monitoramento/
         Serial.println(" Gravar os valor medido na tabela monitoramento");
-        Serial.println(" TBL_MONITORAMENTO (cd_cultura_produto_sensor, vlr_medido, cd_usuario_inclusao, dt_inclusao )  Values(codigoCulturaProdutoSensor,umidade, numeroSerie, getadate() )");
+        Serial.println(" TBL_MONITORAMENTO (cd_cultura_produto_sensor, vlr_medido, cd_usuario_inclusao, dt_inclusao )  Values(codigoCulturaProdutoSensor,umidade, vlr_medido,numeroSerie, getadate() )");
     } else {
         Serial.println("Temperatura dentro do normal.");
     }
