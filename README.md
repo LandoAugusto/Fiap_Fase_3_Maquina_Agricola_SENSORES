@@ -35,8 +35,6 @@ Sensor de luminosidade
 -   **RM:** RM565180
 -   **Nome:** João Victor Viana de Sousa
 -   **RM:** RM565136
--   **Fase:** 2
--   **Capítulo:** 1 - Um mapa do tesouro
 
 ---
 
