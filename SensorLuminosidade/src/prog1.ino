@@ -1,7 +1,7 @@
 #include<DHT.h> 	   //precisa incluir essa biblioteca no seu projeto para que o sensor funcione.
 #define pinoLDR 34  		// Pino ADC conectado ao LDR
-#define codigoCulturaProdutoSensor 1   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
-#define numeroSerie 11   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR   //precisa incluir essa biblioteca no seu projeto para que o sensor funcione.
+#define codigoCulturaProdutoSensor 4   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
+#define numeroSerie 4   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR   //precisa incluir essa biblioteca no seu projeto para que o sensor funcione.
 void setup() {
     Serial.begin(9600);  	// Inicia a comunicação serial
 }

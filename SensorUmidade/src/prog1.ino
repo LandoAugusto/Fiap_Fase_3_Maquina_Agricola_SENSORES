@@ -2,7 +2,7 @@
 #define pinoDHT 23     //Pino onde o sensor está conectado
 #define modelo DHT22   //Tipo de sensor DHT22
 #define codigoCulturaProdutoSensor 1   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
-#define numeroSerie 10   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
+#define numeroSerie 1   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
 
 DHT dht(pinoDHT, modelo);
 

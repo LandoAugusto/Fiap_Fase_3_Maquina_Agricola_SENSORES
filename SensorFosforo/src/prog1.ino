@@ -2,8 +2,8 @@
 #include "DHT.h"
 #define buttonPin 22  // Pino GPIO conectado ao push button
 #define ledPin 17      // Pino GPIO conectado ao LED (ou outro dispositivo)
-#define codigoCulturaProdutoSensor 15   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
-#define numeroSerie 19   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
+#define codigoCulturaProdutoSensor 3   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
+#define numeroSerie 3   // Identificação do sensor por cultura e produto definido na tabela TBL_CULTURA_PRODUTO_SENSOR
 
 void setup() {
     pinMode(buttonPin, INPUT_PULLUP);  // Configura o pino do botão como entrada com pull-up interno
