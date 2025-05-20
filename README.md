@@ -1,4 +1,34 @@
-# Projeto Cap 1 - Construindo uma máquina agrícola
+# FIAP - Faculdade de Informática e Administração Paulista 
+
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<br>
+
+# 🌾Projeto Cap 1 - Construindo uma máquina agrícola🌾
+
+---
+
+## 👨‍🎓 Integrantes e Responsabilidades:
+
+| Nome Completo                     | RM        |
+|----------------------------------|-----------|
+| Daniele Antonieta Garisto Dias  | RM565106  |
+| Leandro Augusto Jardim da Cunha | RM561395  |
+| Luiz Eduardo da Silva           | RM561701  | 
+| Vanessa Teles Paulino           | RM565180  | 
+| João Victor Viana de Sousa      | RM565136  |
+
+---
+
+## 👩‍🏫 Professores:
+### Tutor(a) 
+- <a>Leonardo Ruiz Orabona</a>
+### Coordenador(a)
+- <a>Andre Godoi Chiovato</a>
+
+---
 
 ## 🎯 Introdução e Objetivo
 
